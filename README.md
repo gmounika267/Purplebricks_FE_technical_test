@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# Task Manager App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and intuitive Task Manager application built using React and TypeScript, designed to help users manage their daily tasks efficiently.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Getting Started](#getting-started)
+- [Running the Tests](#running-the-tests)
+- [Building for Production](#building-for-production)
+
+## Features
+
+- **Create Tasks**: Add new tasks with titles and descriptions.
+- **Task Visibility**: Easily view all your current tasks.
+- **Edit Tasks**: Update the details of your tasks as needed.
+- **Delete Tasks**: Remove tasks that are no longer needed.
+- **Mark as Complete**: Check off tasks that you have finished.
+- **Responsive Layout**: Compatible with both desktop and mobile devices.
+
+## Installation
+
+To set up the development environment for this application, you'll need Node.js and npm installed on your computer. After you have Node and npm set up, run the following commands:
+
+```bash
+npm install
 
 ## Available Scripts
 
@@ -13,11 +37,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
